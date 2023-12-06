@@ -1,0 +1,40 @@
+
+body{
+    background-color: mediumturquoise;
+}
+
+.wrap {
+    background-color: #fff;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    border-radius: 20px;
+
+}
+
+.inner {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+
+.inner-text{
+    padding-top: 20px;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 90%;
+    border-radius: 15px;
+}
