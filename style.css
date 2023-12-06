@@ -1,4 +1,5 @@
 
+
 body{
     background-color: mediumturquoise;
 }
@@ -13,7 +14,17 @@ body{
     border-radius: 20px;
 
 }
+.bold{
+    font-size: 15px;
+    font-weight: 700;
+}
+.normal{
+    font-weight: 400;
+}
 
+p{
+    font-family: 'Outfit', sans-serif; 
+}
 .inner {
     display: flex;
     flex-direction: row;
